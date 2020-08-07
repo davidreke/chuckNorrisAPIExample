@@ -7,7 +7,7 @@ class App extends Component {
     quote: ''
   }
 
-  componentDidMount =() => {
+  componentDidMount(){
     axios.get('https://api.chucknorris.io/jokes/random')
       .then(res => {
         console.log('response', res.data.value)
@@ -17,13 +17,13 @@ class App extends Component {
       })
   }
 
-  getNewFact = () => {
+  getNewFact(){
     axios.get('https://api.chucknorris.io/jokes/random')
       .then(res => {
         console.log('response', res.data.value)
-        this.setState({
-        quote: res.data.value
-      })
+      //   this.setState({
+      //   quote: res.value
+      // })
     })
   }
 
@@ -32,7 +32,7 @@ class App extends Component {
       <div>
       <h1>Chuck Norris Facts</h1>
       <p>{this.state.quote}</p>
-    <button onClick={ this.getNewFact}>get new fact</button>
+    <button onClick={this.getNewFact}>get new fact</button>
     </div>
     )
   }
