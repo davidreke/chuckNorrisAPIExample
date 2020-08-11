@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chuckNorrisAPIExample/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/chuckNorrisAPIExample/static/js/main.5199d308.chunk.js",
+    "main.js.map": "/chuckNorrisAPIExample/static/js/main.5199d308.chunk.js.map",
+    "runtime-main.js": "/chuckNorrisAPIExample/static/js/runtime-main.34a425d1.js",
+    "runtime-main.js.map": "/chuckNorrisAPIExample/static/js/runtime-main.34a425d1.js.map",
+    "static/js/2.9f7e5897.chunk.js": "/chuckNorrisAPIExample/static/js/2.9f7e5897.chunk.js",
+    "static/js/2.9f7e5897.chunk.js.map": "/chuckNorrisAPIExample/static/js/2.9f7e5897.chunk.js.map",
+    "index.html": "/chuckNorrisAPIExample/index.html",
+    "precache-manifest.e5b611522dd3ae4705578bf819e6c877.js": "/chuckNorrisAPIExample/precache-manifest.e5b611522dd3ae4705578bf819e6c877.js",
+    "service-worker.js": "/chuckNorrisAPIExample/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/chuckNorrisAPIExample/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.9f7e5897.chunk.js.LICENSE.txt": "/chuckNorrisAPIExample/static/js/2.9f7e5897.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34a425d1.js",
+    "static/js/2.9f7e5897.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.5199d308.chunk.js"
+  ]
+}
